@@ -1,4 +1,4 @@
-# i_am_rich
+# centered_image
 
 A new Flutter project.
 
